@@ -30,7 +30,7 @@ let track_list = [
   {
     name: "Tuổi thanh xuân của chúng ta",
     artist: "Người kể chuyện",
-    image: "https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-6/175642733_2954588398135546_1552561514058234681_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=H7NQXNgyvrEAX-LwBmE&_nc_ht=scontent.fhan5-2.fna&oh=00_AT_sqxeOXpl0MUq6GmQQl5yp9j1jF_rtuNMb1BAYTzwAvw&oe=61DA24AC",
+    image: "https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-6/175642733_2954588398135546_1552561514058234681_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=P9E8_Q0s0ekAX9gwGSq&_nc_ht=scontent.fhan5-2.fna&oh=00_AT-ShCudGX-qi047iBFOYoHSv2rma6jKykzDpeAi9Cni_w&oe=61E20DAC",
     path: "./assests/blog radio 8.MP3"
   },
   {
