@@ -1,11 +1,17 @@
 body {
     position: relative;
     background-color: lightgreen;
-  
+   
     /* Smoothly transition the background color */
     transition: background-color .5s;
   }
   
+button{
+ position: relative;
+ top: 60px;
+ left: 200px;
+
+}
   .player {
     height: 99vh;
     display: flex;
@@ -120,12 +126,27 @@ body {
     position: absolute;
     width: 200px;
   }
-  .slide marquee{
+  .slide {
     position: fixed;
     display: block;
     color: black;
     height: 50%;
     font-size: 29px;
+  }
+  #canvas {
+   /* background-color: black; */
+    position: relative;
+    height: 100%;
+    cursor: pointer;
+    display: block;
+  }
+ h1{
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 500px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   @media only screen and (max-width: 63.93753em) {.slide img{
     width: 6rem;
